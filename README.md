@@ -19,6 +19,6 @@ streamlit run app.py
 
 > Requer ficheiro de credenciais Google (`gcp_service_account`) e variáveis em `.streamlit/secrets.toml`.
 
-![Graficos](Captura de ecrã 2026-06-12, às 13.40.29.png)
-![Visualizacao](Captura de ecrã 2026-06-12, às 13.39.12.png)
-![Cotas](Captura de ecrã 2026-06-12, às 13.39.24.png)
+![Graficos](graficos.png)
+![Visualizacao](visualizacao.png)
+![Cotas](cotas.png)
