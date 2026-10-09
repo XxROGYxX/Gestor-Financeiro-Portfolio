@@ -11,13 +11,7 @@ App web para controlo de finanças pessoais com integração ao Google Sheets.
 ## Tecnologias
 Python · Streamlit · Pandas · Plotly · Google Sheets API
 
-## Como executar
-```bash
-pip install -r requirements.txt
-streamlit run app.py
-```
 
-> Requer ficheiro de credenciais Google (`gcp_service_account`) e variáveis em `.streamlit/secrets.toml`.
 
 ![Graficos](graficos.png)
 ![Visualizacao](visualizacao.png)
