@@ -12,7 +12,7 @@ App web para controlo de finanças pessoais com integração ao Google Sheets.
 Python · Streamlit · Pandas · Plotly · Google Sheets API
 
 
-
+![Principal](Principal.png)
 ![Graficos](graficos.png)
 ![Visualizacao](visualizacao.png)
 ![Cotas](cotas.png)
